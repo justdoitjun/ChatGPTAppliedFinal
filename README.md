@@ -14,7 +14,8 @@ DB를 만들어서 Protfolio에 현재 내 자산 규모에 대해서 말해주�
 <hr>
 $5. 업비트 웹소케 // 가상자산 웹소켓 -> 실시간 데이터 소통 (너무 힘들었다)
 
-https://user-images.githubusercontent.com/119689162/238876905-ae71351a-613f-4c99-87c3-e7044791c2e5.png![image](https://github.com/justdoitjun/ChatGPTAppliedFinal/assets/119689162/7c1a490f-76bf-4261-b71e-93ef515d32f0)
+<img width="1440" alt="image" src="https://github.com/justdoitjun/ChatGPTAppliedFinal/assets/119689162/bfcf8978-9e3a-48c5-8c00-1284b2480eee">
+
 
 
 <img width="1440" alt="image" src="https://github.com/justdoitjun/ChatGPTapplied/assets/119689162/1fd1a9c0-e6f9-411c-9f9d-c1e67c5008c1">
